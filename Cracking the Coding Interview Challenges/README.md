@@ -1,11 +1,11 @@
 # Some useful videos
-[![Video Pic](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiNjL6UpuTTAhVI1oMKHZQyDWYQjRwIBw&url=http%3A%2F%2F2020iscoming.info%2Felse%2Fyoutube-symbol-black.coming&psig=AFQjCNHuRAcH4KvUAUeq8T305LzewMhlMg&ust=1494470373131176)](https://www.youtube.com/watch?v=jxAWQN5t6wg)
+[![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=jxAWQN5t6wg)
 
-[![Video Pic](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiNjL6UpuTTAhVI1oMKHZQyDWYQjRwIBw&url=http%3A%2F%2F2020iscoming.info%2Felse%2Fyoutube-symbol-black.coming&psig=AFQjCNHuRAcH4KvUAUeq8T305LzewMhlMg&ust=1494470373131176)](https://www.youtube.com/watch?v=tZxNNKqxXnw)
+[![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=tZxNNKqxXnw)
 
-[![Video Pic](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiNjL6UpuTTAhVI1oMKHZQyDWYQjRwIBw&url=http%3A%2F%2F2020iscoming.info%2Felse%2Fyoutube-symbol-black.coming&psig=AFQjCNHuRAcH4KvUAUeq8T305LzewMhlMg&ust=1494470373131176)](https://www.youtube.com/watch?v=GKgAVjJxh9w)
+[![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=GKgAVjJxh9w)
 
-[![Video Pic](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiNjL6UpuTTAhVI1oMKHZQyDWYQjRwIBw&url=http%3A%2F%2F2020iscoming.info%2Felse%2Fyoutube-symbol-black.coming&psig=AFQjCNHuRAcH4KvUAUeq8T305LzewMhlMg&ust=1494470373131176)](https://www.youtube.com/watch?v=84UYVCluClQ)
+[![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=84UYVCluClQ)
 
 
 
