@@ -1,4 +1,4 @@
-# Some useful videos
+# Some Useful Videos
 [![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=jxAWQN5t6wg)   [![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=tZxNNKqxXnw)    [![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=GKgAVjJxh9w)    [![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=84UYVCluClQ)
 
 |       1. Intro                |       2. Behavioral                |       3. 7 Steps                |       4. 3 Strategies                |
