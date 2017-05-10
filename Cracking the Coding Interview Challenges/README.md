@@ -1,11 +1,5 @@
 # Some useful videos
-[![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=jxAWQN5t6wg)
-
-[![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=tZxNNKqxXnw)
-
-[![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=GKgAVjJxh9w)
-
-[![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=84UYVCluClQ)
+[![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=jxAWQN5t6wg)[![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=tZxNNKqxXnw)[![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=GKgAVjJxh9w)[![Video Pic](http://www.iconninja.com/files/762/363/704/youtube-icon.png)](https://www.youtube.com/watch?v=84UYVCluClQ)
 
 
 
