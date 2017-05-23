@@ -60,5 +60,8 @@ public class Solution {
 }
 
 /*
-   Java annotation can be used to define the metadata of a Java class or class element. We can use Java annotation at the compile time to instruct the compiler about the build process. Annotation is also used at runtime to get insight into the properties of class elements.
+   Java annotation can be used to define the metadata of a Java class or class
+   element. We can use Java annotation at the compile time to instruct the
+   compiler about the build process. Annotation is also used at runtime to get
+   insight into the properties of class elements.
  */
