@@ -51,7 +51,7 @@ public class Solution {
  */
 
 ////////////////////////////////////////
-// Soulution 2 Using Character Offset //
+// Solution 2 Using Character Offset //
 ////////////////////////////////////////
 
 
