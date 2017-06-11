@@ -35,3 +35,7 @@ public class Solution {
         }
     }
 }
+
+/*
+    Classic of using the hashMap not binary search though
+ */
