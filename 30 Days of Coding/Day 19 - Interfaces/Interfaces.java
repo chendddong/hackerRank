@@ -54,3 +54,34 @@ class Solution {
     Abstract classes look a lot like interfaces, but they have something more: You can define a behavior for them. It's more about a guy saying, "these classes should look like that, and they have that in common, so fill in the blanks!".
     ===========================================================================
  */
+
+//////////////////////////////////
+// Check if the number is prime //
+//////////////////////////////////
+
+import java.util.Scanner;
+
+public class Solution {
+    public static void main(String [] args) {
+        Scanner scan = new Scanner(System.in);
+        int p = scan.nextInt();
+        while (p-- > 0) {
+            int n = scan.nextInt();
+            System.out.println(isPrime(n) ? "Prime" : "Not prime");
+        }
+        scan.close();
+    }
+    
+    public static boolean isPrime(int n) {
+        if (n < 2) {
+            return false;
+        }
+        int sqrt = (int) Math.sqrt(n);
+        for (int i = 2; i <= sqrt; i++) {
+            if (n % i == 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+}
