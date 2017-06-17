@@ -29,5 +29,4 @@ public class Solution {
       1) x ^ x = 0
       2) x ^ 0 = x
       3) XOR is commutative and associative
- 
  */
