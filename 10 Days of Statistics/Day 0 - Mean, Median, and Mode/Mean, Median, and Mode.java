@@ -13,7 +13,7 @@ public class Solution {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
-
+        sc.close();
         /* Get three output respectively */
         double mean = getMean(arr);
         System.out.printf("%.1f\n", mean);
