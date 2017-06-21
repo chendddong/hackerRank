@@ -1,3 +1,7 @@
+/////////////////////////////////////////
+// Solution #0 Reuse the code in day 0 //
+/////////////////////////////////////////
+
 import java.io.*;
 import java.util.*;
 
@@ -55,4 +59,49 @@ public class Solution {
         /* Even number */
         return (arr[n / 2] + arr[(n / 2) - 1]) / 2;
     }    
+}
+
+////////////////////////////////////////////////
+// Solution #1 Rewrite the getMedian() method //
+////////////////////////////////////////////////
+
+import java.util.Scanner;
+import java.util.Arrays;
+
+public class Solution {
+    public static void main(String[] args) {
+        int [] array = getValues();
+        Arrays.sort(array);
+        
+        int q1 = getMedian(array, 0, array.length / 2 - 1);
+        int q2 = getMedian(array, 0, array.length - 1);
+        int q3 = getMedian(array, (array.length + 1) / 2, array.length - 1);
+        
+        System.out.println(q1);
+        System.out.println(q2);
+        System.out.println(q3);
+    }
+
+    /* Creates array from input */
+    private static int [] getValues() {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        int [] array = new int[n];
+        for (int i = 0; i < n; i++) {
+            array[i] = scan.nextInt();
+        }
+        scan.close();
+        return array;
+    }
+    
+    /* Treats elements from "start" to "end" (inclusive) as an array and calculates its median */
+    private static int getMedian(int [] array, int start, int end) {
+        if ((end - start) % 2 == 0) { // odd number of elements
+            return (array[(end + start) / 2]);
+        } else { // even number of elements
+            int value1 = array[(end + start) / 2];
+            int value2 = array[(end + start) / 2 + 1];
+            return Math.round((value1 + value2) / 2); 
+        }
+    }
 }
