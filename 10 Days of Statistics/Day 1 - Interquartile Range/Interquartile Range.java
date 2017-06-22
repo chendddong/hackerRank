@@ -12,11 +12,9 @@ public class Solution {
         int [] array = getValues();
         Arrays.sort(array);
         
-        int q1 = getMedian(array, 0, array.length / 2 - 1);
-        int q2 = getMedian(array, 0, array.length - 1);
-        int q3 = getMedian(array, (array.length + 1) / 2, array.length - 1);
-        
-
+        double q1 = getMedian(array, 0, array.length / 2 - 1);
+        double q3 = getMedian(array, (array.length + 1) / 2, array.length - 1);
+    
         System.out.printf("%.1f\n" , (double)(q3 - q1));
     }
   
@@ -53,7 +51,7 @@ public class Solution {
     }
     
     /* Treats elements from "start" to "end" (inclusive) as an array and calculates its median */
-    private static int getMedian(int [] array, int start, int end) {
+    private static double getMedian(int [] array, int start, int end) {
         if ((end - start) % 2 == 0) { // odd number of elements
             return (array[(end + start) / 2]);
         } else { // even number of elements
